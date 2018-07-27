@@ -1,0 +1,174 @@
+  div.speaker-card-holder {
+    margin-bottom: 30px;
+  }
+
+  article.speaker-card {
+    width: 100%;
+    padding: 0 0 35px 24px ;
+    color: #646464;
+    font-size: 18px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    background: #ffffff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.12);
+  }
+
+  div.speaker-card-img {
+    height: 300px;
+    margin-left: -24px;
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  h3.speaker-card-heading {
+    margin: -52px 0 9px 0;
+    font-family: 'EYInterstate', 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF;
+  }
+
+  h3.speaker-card-heading > span.speaker-card-heading-color {
+    color: #333333;
+  }
+
+  p.speaker-card-paragraph {
+    margin-bottom: 20px;
+  }
+
+  div.skill-card-block-bottom {
+    height: 208px;
+    padding: 14px 24px 0 24px;
+  }
+
+  p.skill-card-paragraph {
+    display: inline-block;
+    width: 322px;
+    font-family: 'Noto Sans', sans-serif;
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    font-size: 18px;
+    color: #646464;
+  }
+
+  button.speaker-card-button {
+    display: block;
+    font-family: 'Noto Sans', sans-serif;
+    width: 174px;
+    height: 40px;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background: #333333;
+    border: none;
+  }
+
+  /* Блок кастомизации */
+
+  /* Тёмные карточки */
+
+  div.speaker-card-holder-dark article {
+    background-color: #333333;
+  }
+
+  div.speaker-card-holder-dark p,
+  div.speaker-card-holder-dark h3.speaker-card-heading span.speaker-card-heading-color
+   {
+    color: #ffffff;
+  }
+
+  div.speaker-card-holder-dark button.speaker-card-button {
+    background: #ffffff;
+    color: #333333;
+  }
+
+  /* Жёлтые карточки */
+
+  div.speaker-card-holder-yellow article {
+    background-color: #fee600;
+  }
+
+  div.speaker-card-holder-yellow p,
+  div.speaker-card-holder-yellow h3.speaker-card-heading span.speaker-card-heading-color
+   {
+    color: #646464;
+  }
+
+  div.speaker-card-holder-yellow button.speaker-card-button {
+    background: #646464;
+    color: #ffffff;
+  }
+
+  /* Изображения */
+
+  div.speaker-card-holder:nth-of-type(2) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(3) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(4) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(5) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(6) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(7) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(8) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(9) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  div.speaker-card-holder:nth-of-type(10) div.speaker-card-img {
+    background:
+    linear-gradient(0deg, rgba(51, 51, 51, 0.6) 0%, rgba(51, 51, 51, 0) 57.07%),
+    url("../images/skill-card/img_01.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  /* Конец блока кастомизации */
